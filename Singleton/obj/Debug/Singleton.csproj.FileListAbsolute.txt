@@ -1,0 +1,9 @@
+c:\users\shs\documents\visual studio 2012\Projects\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Singleton\Singleton\obj\Debug\Singleton.Properties.Resources.resources
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Singleton\Singleton\obj\Debug\Singleton.csproj.GenerateResource.Cache
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Singleton\Singleton\obj\Debug\Singleton.Form1.resources
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Singleton\Singleton\obj\Debug\Singleton.pdb
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
